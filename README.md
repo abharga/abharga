@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, machine learning and network engineering
 - 🌱 I’m currently learning python and ansible
 - 💞️ I’m looking to collaborate on network automation
-- 📫 How to reach me: email at mailbox.abhi2gmail.com
+- 📫 How to reach me: email at mailbox.abhi@gmail.com
 
 <!---
 abharga/abharga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
